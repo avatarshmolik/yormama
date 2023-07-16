@@ -1,6 +1,7 @@
 body {
     direction: rtl;
     background-color: darkslategrey;
+    color: aqua;
 }
 p {
     font-size: 12pt;
