@@ -1,0 +1,22 @@
+body {
+    direction: rtl;
+    background-color: darkslategrey;
+}
+p {
+    font-size: 12pt;
+    color:aqua;
+}
+pre{
+    font-size: 12pt;
+    color:aqua;
+}
+h1 {
+    color: rgb(156, 162, 255);
+    font-size: 24pt;
+    text-align: center;
+}
+h2 {
+    color: rgb(220, 138, 236);
+    font-size: 20pt;
+    text-align: justify;
+}
